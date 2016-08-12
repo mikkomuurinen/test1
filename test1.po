@@ -1,1 +1,4 @@
+msgid "test1"
+msgstr ""
+
 
